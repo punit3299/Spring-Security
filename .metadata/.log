@@ -4381,3 +4381,57 @@ java.lang.InterruptedException
 	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:132)
 	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
 	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:169)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-03 14:28:07.152
+!MESSAGE Preparing classpath changed notification spring-security-jdbc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-03 14:28:07.160
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-03 14:28:07.169
+!MESSAGE classpath=1 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-03 14:28:07.177
+!MESSAGE buffering callback sts4.classpath.NennXDuR spring-security-jdbc false 1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-03 14:28:07.182
+!MESSAGE executing callback sts4.classpath.NennXDuR 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-03 14:28:07.192
+!MESSAGE executing callback sts4.classpath.NennXDuR SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-03 14:28:07.438
+!MESSAGE Preparing classpath changed notification spring-security-jdbc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-03 14:28:07.447
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-03 14:28:07.461
+!MESSAGE classpath=93 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-03 14:28:07.472
+!MESSAGE buffering callback sts4.classpath.NennXDuR spring-security-jdbc false 93
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-03 14:28:07.480
+!MESSAGE executing callback sts4.classpath.NennXDuR 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-03 14:28:07.494
+!MESSAGE executing callback sts4.classpath.NennXDuR SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-03 14:28:10.666
+!MESSAGE Preparing classpath changed notification spring-security-jdbc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-03 14:28:10.674
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-03 14:28:10.684
+!MESSAGE classpath=93 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-03 14:28:10.694
+!MESSAGE buffering callback sts4.classpath.NennXDuR spring-security-jdbc false 93
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-03 14:28:10.700
+!MESSAGE executing callback sts4.classpath.NennXDuR 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-03 14:28:10.709
+!MESSAGE executing callback sts4.classpath.NennXDuR SUCCESS [done]
