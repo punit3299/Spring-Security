@@ -44,8 +44,8 @@ public class SecurityConfiguration extends WebSecurityConfigurerAdapter {
 //				.antMatchers("/**").hasAnyRole("ADMIN","USER")
 //				.antMatchers("/**").hasRole("ADMIN")
 				.antMatchers("/admin").hasRole("ADMIN")
-//				.antMatchers("/user").hasRole("USER")
-				.antMatchers("/user").hasAnyRole("USER","ADMIN")
+				.antMatchers("/user").hasRole("USER")
+//				.antMatchers("/user").hasAnyRole("USER","ADMIN") - If we want to give this url access to both user and admin
 				.antMatchers("/").permitAll().and().formLogin();
 	}
 }
